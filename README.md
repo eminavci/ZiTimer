@@ -1,5 +1,6 @@
 ### ZiTimer - Android - IOS Application
 - ZiTimer is a fully customizable and intelligent and simplest chronometer/timer for mobile devices.
+- Application does not store any data, and does not connect to any external system.
 - You can easily use it for  tracting your time while studying, recording, doing sport, doing workout, meditation, cooking etc.
 - You can define your preferences  and use the application in most efficent way for your requirements.
 - ZiTimer simply provides 4 essental features: Start, Stop, Reset and Restart
